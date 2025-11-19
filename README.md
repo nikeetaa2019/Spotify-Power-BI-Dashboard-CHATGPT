@@ -12,12 +12,7 @@ I also used ChatGPT to support the data cleaning steps, DAX creation, summary wr
 
 Total songs, artists, and streams
 
-Popular genres
 
-Trends and patterns in listening behaviour<img width="592" height="330" alt="Song page" src="https://github.com/user-attachments/assets/f8f42b08-c714-47a7-8f3d-844f97ed7db2" />
-<img width="599" height="337" alt="Overview page" src="https://github.com/user-attachments/assets/25e9e6a4-6c78-4bc5-816b-1cfd0e06e3d8" />
-<img width="596" height="335" alt="Index page" src="https://github.com/user-attachments/assets/443955b3-9ae7-4a17-bbcf-2077b1117c1a" />
-<img width="601" height="332" alt="Artist Page" src="https://github.com/user-attachments/assets/857b7c7c-10fe-43f9-8ac3-45c001aca845" />
 
 
 2️⃣ Artist Analysis Page
@@ -79,6 +74,13 @@ Learn better DAX usage
 Integrate AI support (ChatGPT) into analytics workflow
 
 Build a portfolio-ready project for recruiters and hiring managers
+
+Popular genres
+
+Trends and patterns in listening behaviour<img width="592" height="330" alt="Song page" src="https://github.com/user-attachments/assets/f8f42b08-c714-47a7-8f3d-844f97ed7db2" />
+<img width="599" height="337" alt="Overview page" src="https://github.com/user-attachments/assets/25e9e6a4-6c78-4bc5-816b-1cfd0e06e3d8" />
+<img width="596" height="335" alt="Index page" src="https://github.com/user-attachments/assets/443955b3-9ae7-4a17-bbcf-2077b1117c1a" />
+<img width="601" height="332" alt="Artist Page" src="https://github.com/user-attachments/assets/857b7c7c-10fe-43f9-8ac3-45c001aca845" />
 
 #SpotifyAnalytics #MusicAnalytics #TopSongs #ArtistInsights 
 #DataInsights #AnalyticsProject #PortfolioProject
