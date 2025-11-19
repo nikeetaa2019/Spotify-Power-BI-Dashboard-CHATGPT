@@ -79,3 +79,7 @@ Learn better DAX usage
 Integrate AI support (ChatGPT) into analytics workflow
 
 Build a portfolio-ready project for recruiters and hiring managers
+
+#SpotifyAnalytics #MusicAnalytics #TopSongs #ArtistInsights 
+#DataInsights #AnalyticsProject #PortfolioProject
+
